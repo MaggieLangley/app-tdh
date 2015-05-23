@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.testap2015.app"
+        id        = "com.thedockhub.app"
         version   = "1.0.2">
 <name>The Dock Hub</name><description> The Dock Hub App - designed by OfficeHounds to allow refreshments to be ordered from the meeting rooms </description><author email="maggie@officehounds.com" href="http://officehounds.com"> OfficeHounds </author><preference value="3.6.3" name="phonegap-version"/>
 
