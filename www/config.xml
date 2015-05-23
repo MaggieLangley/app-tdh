@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>AppPresser</name>
+<widget id="com.thedockhub.app" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>The Dock Hub</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        The Dock Hub App - designed by OfficeHounds to allow refreshments to be ordered from the meeting rooms
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="maggie@officehounds.com" href="http://officehounds.com">
+OfficeHounds
     </author>
     <content src="index.html" />
     <access origin="*" />
